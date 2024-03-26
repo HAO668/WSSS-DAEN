@@ -9,7 +9,7 @@
 ### Installation
 - Download the repository.
 ```
-git clone https://github.com/HAO668/WSSS-SAEN.git
+git clone https://github.com/HAO668/WSSS-DAEN.git
 ```
 - Install python dependencies.
 ```

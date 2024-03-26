@@ -9,7 +9,7 @@
 ### Installation
 - Download the repository.
 ```
-git clone https://github.com/YudeWang/SEAM.git
+git clone https://github.com/HAO668/WSSS-SAEN.git
 ```
 - Install python dependencies.
 ```

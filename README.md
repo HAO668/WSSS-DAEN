@@ -59,4 +59,4 @@ python evaluation.py --list VOC2012/ImageSets/Segmentation/[val.txt | train.txt]
 ```
 
 ### Pseudo labels retrain
-Pseudo label retrain on DeepLabv1. Code is available [here](https://github.com/Hao668/semantic-segmentation-codebase/tree/main/experiment/daenv1-pseudovoc).
+Pseudo label retrain on DeepLabv1. Code is available [here](https://github.com/Hao668/semantic-segmentation-codebase/tree/main/daenv1-pseudovoc).

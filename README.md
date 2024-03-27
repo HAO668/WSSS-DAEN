@@ -15,7 +15,6 @@ git clone https://github.com/HAO668/WSSS-DAEN.git
 ```
 pip install -r requirements.txt
 ```
-- **Download model weights from [google drive](https://drive.google.com/open?id=1jWsV5Yev-PwKgvvtUM3GnY0ogb50-qKa) or [baidu cloud](https://pan.baidu.com/s/1ymaMeF0ASjQ9oCGI9cmqHQ) (with code 6nmo)**, including ImageNet pretrained models and our training results.
 
 - Download PASCAL VOC 2012 devkit (follow instructions in http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit). It is suggested to make a soft link toward downloaded dataset.
 ```
@@ -60,4 +59,4 @@ python evaluation.py --list VOC2012/ImageSets/Segmentation/[val.txt | train.txt]
 ```
 
 ### Pseudo labels retrain
-Pseudo label retrain on DeepLabv1. Code is available [here](https://github.com/YudeWang/semantic-segmentation-codebase/tree/main/experiment/seamv1-pseudovoc).
+Pseudo label retrain on DeepLabv1. Code is available [here](https://github.com/Hao668/semantic-segmentation-codebase/tree/main/experiment/daenv1-pseudovoc).

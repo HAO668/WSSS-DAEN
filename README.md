@@ -1,7 +1,7 @@
 # WSSS-DAEN
 ## Requirements
 - Python 3.6
-- pytorch 1.2.0, torchvision 0.2.1
+- pytorch 1.2.0
 - CUDA 10.1
 - 3 x GPUs (12GB)
 
